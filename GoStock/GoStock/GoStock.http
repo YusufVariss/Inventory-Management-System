@@ -1,0 +1,6 @@
+@GoStock_HostAddress = http://localhost:5107
+
+GET {{GoStock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
